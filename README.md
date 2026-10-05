@@ -172,7 +172,7 @@ Artificial Intelligence
 ## 🤝 Connect With Me
 
 <p>
-<a href="www.linkedin.com/in/ran-uram">
+<a href="https://www.linkedin.com/in/ran-uram">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
